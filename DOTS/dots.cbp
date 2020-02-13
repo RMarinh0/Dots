@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="DOTS" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/teste" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/teste" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="corjogo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="corjogo.h" />
+		<Unit filename="creditos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="creditos.h" />
+		<Unit filename="enterranking.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="enterranking.h" />
+		<Unit filename="gotoxy.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="gotoxy.h" />
+		<Unit filename="instrucoes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="instrucoes.h" />
+		<Unit filename="level.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="level.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu.h" />
+		<Unit filename="opcoes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="opcoes.h" />
+		<Unit filename="resultado.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="resultado.h" />
+		<Unit filename="showranking.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="showranking.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

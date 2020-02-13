@@ -1,0 +1,164 @@
+# depslib dependency file v1.0
+1560606203 source:c:\users\dumen\documents\estudo\ecomp\testescodeblocks\dots\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"menu.h"
+	"opcoes.h"
+	"level.h"
+	"instrucoes.h"
+	"corjogo.h"
+	"creditos.h"
+	"resultado.h"
+	"gotoxy.h"
+
+1560278270 source:c:\users\dumen\documents\estudo\ecomp\testescodeblocks\dots\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1560278401 source:c:\users\dumen\documents\estudo\ecomp\testescodeblocks\dots\opcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1560278270 c:\users\dumen\documents\estudo\ecomp\testescodeblocks\dots\menu.h
+
+1560279386 source:c:\users\dumen\documents\estudo\ecomp\testescodeblocks\dots\corjogo.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1560279386 source:c:\users\dumen\documents\estudo\ecomp\testescodeblocks\dots\creditos.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1560279386 source:c:\users\dumen\documents\estudo\ecomp\testescodeblocks\dots\instrucoes.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1560606553 source:c:\users\dumen\documents\estudo\ecomp\testescodeblocks\dots\level.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"resultado.h"
+	"menu.h"
+	"gotoxy.h"
+
+1560605855 source:c:\users\dumen\documents\estudo\ecomp\testescodeblocks\dots\resultado.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"menu.h"
+
+1560278419 c:\users\dumen\documents\estudo\ecomp\testescodeblocks\dots\opcoes.h
+
+1560279386 c:\users\dumen\documents\estudo\ecomp\testescodeblocks\dots\level.h
+
+1560279386 c:\users\dumen\documents\estudo\ecomp\testescodeblocks\dots\instrucoes.h
+
+1560279386 c:\users\dumen\documents\estudo\ecomp\testescodeblocks\dots\corjogo.h
+
+1560279386 c:\users\dumen\documents\estudo\ecomp\testescodeblocks\dots\creditos.h
+
+1560279386 c:\users\dumen\documents\estudo\ecomp\testescodeblocks\dots\resultado.h
+
+1560606151 source:c:\users\dumen\documents\estudo\ecomp\testescodeblocks\dots\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1560606203 c:\users\dumen\documents\estudo\ecomp\testescodeblocks\dots\gotoxy.h
+
+1560279386 source:c:\users\ana célia\desktop\dots\corjogo.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1561862787 source:c:\users\ana célia\desktop\dots\creditos.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1560606151 source:c:\users\ana célia\desktop\dots\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1561634565 source:c:\users\ana célia\desktop\dots\instrucoes.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1561033672 source:c:\users\ana célia\desktop\dots\level.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"resultado.h"
+	"menu.h"
+	"gotoxy.h"
+
+1560279386 c:\users\ana célia\desktop\dots\resultado.h
+
+1560278270 c:\users\ana célia\desktop\dots\menu.h
+
+1560606203 c:\users\ana célia\desktop\dots\gotoxy.h
+
+1562184270 source:c:\users\ana célia\desktop\dots\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"menu.h"
+	"opcoes.h"
+	"level.h"
+	"instrucoes.h"
+	"corjogo.h"
+	"creditos.h"
+	"resultado.h"
+	"gotoxy.h"
+	"enterranking.h"
+	"showranking.h"
+
+1560278419 c:\users\ana célia\desktop\dots\opcoes.h
+
+1560279386 c:\users\ana célia\desktop\dots\level.h
+
+1560279386 c:\users\ana célia\desktop\dots\instrucoes.h
+
+1560279386 c:\users\ana célia\desktop\dots\corjogo.h
+
+1560279386 c:\users\ana célia\desktop\dots\creditos.h
+
+1561858432 source:c:\users\ana célia\desktop\dots\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"showranking.h"
+
+1560952724 source:c:\users\ana célia\desktop\dots\opcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1561033153 source:c:\users\ana célia\desktop\dots\resultado.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"menu.h"
+	"enterranking.h"
+
+1560884594 c:\users\ana célia\desktop\dots\inserirranking.h
+
+1560946301 c:\users\ana célia\desktop\dots\enterranking.h
+
+1561634471 source:c:\users\ana célia\desktop\dots\enterranking.c
+	<stdio.h>
+
+1560950593 c:\users\ana célia\desktop\dots\showranking.h
+
+1561138697 source:c:\users\ana célia\desktop\dots\showranking.c
+	<stdio.h>
+	<stdlib.h>
+
